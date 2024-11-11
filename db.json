@@ -1,0 +1,74 @@
+{
+  "allVideos": [
+    {
+      "id": "2",
+      "caption": "the substance",
+      "url": "https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg",
+      "link": "https://www.youtube.com/embed/LNlrGhBpYjc"
+    },
+    {
+      "id": "3",
+      "caption": "ballerina",
+      "url": "https://m.media-amazon.com/images/M/MV5BYjdkZTc1NGQtMDY0Yi00NzE4LTg0MjMtNGIwMmU0ZDE4MjQwXkEyXkFqcGc@._V1_.jpg",
+      "link": "https://www.youtube.com/embed/0FSwsrFpkbw"
+    },
+    {
+      "id": "4",
+      "caption": "nosferatu",
+      "url": "https://posterspy.com/wp-content/uploads/2024/06/Nosferatu.jpg",
+      "link": "https://www.youtube.com/embed/b59rxDB_JRg"
+    }
+  ],
+  "history": [
+    {
+      "caption": "gladiator 2",
+      "link": "https://www.youtube.com/embed/Ts0N8swyWFI",
+      "timeStamp": "11/08/2024, 09:30:54 PM",
+      "id": 4
+    },
+    {
+      "caption": "nosferatu",
+      "link": "https://www.youtube.com/embed/b59rxDB_JRg",
+      "timeStamp": "11/08/2024, 11:00:19 PM",
+      "id": 5
+    },
+    {
+      "caption": "the substance",
+      "link": "https://www.youtube.com/embed/LNlrGhBpYjc",
+      "timeStamp": "11/08/2024, 11:58:54 PM",
+      "id": 8
+    },
+    {
+      "caption": "deadpool & wolverine",
+      "link": "https://www.youtube.com/embed/73_1biulkYk",
+      "timeStamp": "11/09/2024, 12:04:07 AM",
+      "id": 9
+    },
+    {
+      "caption": "the substance",
+      "link": "https://www.youtube.com/embed/LNlrGhBpYjc",
+      "timeStamp": "11/10/2024, 04:19:29 PM",
+      "id": 10
+    }
+  ],
+  "category": [
+    {
+      "id": 1,
+      "categoryName": "trailers",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "the substance",
+          "url": "https://acrn.com/wp-content/uploads/2024/10/the_substance-265285928-large.jpg",
+          "link": "https://www.youtube.com/embed/LNlrGhBpYjc"
+        },
+        {
+          "id": "4",
+          "caption": "nosferatu",
+          "url": "https://posterspy.com/wp-content/uploads/2024/06/Nosferatu.jpg",
+          "link": "https://www.youtube.com/embed/b59rxDB_JRg"
+        }
+      ]
+    }
+  ]
+}
